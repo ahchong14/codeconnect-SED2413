@@ -20,8 +20,7 @@ codeconnect-sed2413/
 ├── 📊 UML Diagrams (Draw.io files)
 ├── 🎓 Presentation Slides
 └── 📋 Assignment Resources
-
-text
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 👥 Development Team
 - Chong Kuok Fui - EW5728
